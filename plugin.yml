@@ -1,0 +1,8 @@
+---
+name: NoVPN
+main: hiskcraft\novpn\Main
+api:
+- 3.0.0
+version: 0.1.4
+author: The Quitox_Pacmero
+...
